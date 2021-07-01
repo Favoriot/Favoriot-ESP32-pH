@@ -10,8 +10,8 @@
 #include <SimpleDHT.h>
 
 
-#define APIKEY  "type your favoriot api key here"
-#define DEVICE_DEV_ID "device id here"        //change id device
+#define APIKEY  "rw-apikey/acesstoken"
+#define DEVICE_DEV_ID "deviceDefault@favoriot"        //change id device
 
 const char ssid[] = "your id for wifi/hotspot";             //change SSID wifi
 const char password[] = "password for wifi/hotspot";     //change password wifi
